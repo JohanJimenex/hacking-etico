@@ -1,6 +1,8 @@
-# Hacking Ético 🔐
+# Hacking Ético 🔐 Notas sobre **Hacking Ético** y Ciberseguridad
 
-Notas sobre **Hacking Ético** y Ciberseguridad
+## Descripción
+
+Este documento ofrece recursos clave sobre herramientas como Shodan y Google Dorks para identificar vulnerabilidades en sistemas conectados a Internet, y cómo los expertos en ciberseguridad protegen estos sistemas.
 
 ## Enlaces útiles 🌐
 
@@ -13,7 +15,3 @@ Notas sobre **Hacking Ético** y Ciberseguridad
 - **Shodan - Buscador como Google para Dispositivos IoT (Internet de las Cosas)** 🌐: [Shodan](https://www.shodan.io/)  
   _Shodan es un motor de búsqueda especializado en encontrar dispositivos conectados a Internet, desde cámaras de seguridad, hasta servidores, exponiendo posibles vulnerabilidades._
 
-## Descripción
-
-Este documento ofrece recursos clave sobre herramientas como Shodan y Google Dorks para identificar vulnerabilidades en sistemas conectados a Internet, y cómo los expertos en ciberseguridad protegen estos sistemas.
- 
