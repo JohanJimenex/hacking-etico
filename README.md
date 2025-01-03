@@ -1,13 +1,13 @@
 # Hacking Ético 🔐
 
-Notas del curso de **Hacking Ético**
+Notas sobre **Hacking Ético** y Ciberseguridad
 
 ## Enlaces útiles 🌐
 
 - **Curso de Hacking Ético** 🎓: [Curso Completo de Hacking Ético y Ciberseguridad](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad)  
   _Un curso completo que te enseña desde lo básico hasta técnicas avanzadas de hacking ético y ciberseguridad._
 
-- **Google Dorks - Combinaciones Probadas** 💻: [Google Dorks - Lista Completa](https://www.exploit-db.com/google-hacking-database)  
+- **Exploit DB - Google Dorks - Combinaciones Probadas** 💻: [Google Dorks - Lista Completa](https://www.exploit-db.com/google-hacking-database)  
   _Una colección de combinaciones de búsqueda avanzadas que pueden usarse para encontrar vulnerabilidades de seguridad a través de Google._
 
 - **Shodan - Buscador como Google para Dispositivos IoT (Internet de las Cosas)** 🌐: [Shodan](https://www.shodan.io/)  
@@ -15,4 +15,5 @@ Notas del curso de **Hacking Ético**
 
 ## Descripción
 
-Este curso ofrece una introducción completa a las prácticas de hacking ético, enseñando cómo identificar vulnerabilidades en sistemas informáticos de manera responsable y legal. Aprovecha los recursos proporcionados para profundizar en el tema.
+Este documento ofrece recursos clave sobre herramientas como Shodan y Google Dorks para identificar vulnerabilidades en sistemas conectados a Internet, y cómo los expertos en ciberseguridad protegen estos sistemas.
+ 
