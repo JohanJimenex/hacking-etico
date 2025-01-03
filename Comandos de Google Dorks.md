@@ -1,5 +1,3 @@
-Aquí tienes el mismo texto con iconos añadidos para cada uno de los comandos y operadores:
-
 # Google Hacking: Comandos y Operadores Booleanos
 
 ## Comandos principales Google Hacking
