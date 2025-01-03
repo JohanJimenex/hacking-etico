@@ -6,7 +6,9 @@ Notas del curso de **Hacking Ético**
 
 - **Curso de Hacking Ético** 🎓: [Curso Completo de Hacking Ético y Ciberseguridad](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad)
   
-- **Google Dorks - Combinaciones Probadas** 💻: [Exploit-DB](https://www.exploit-db.com)
+- **Google Dorks - Combinaciones Probadas** 💻: [Shodan](https://www.shodan.io/)
+
+- **Shodan - Buscador como google** 💻: [shodan](https://www.exploit-db.com)
 
 ## Descripción
 
