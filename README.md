@@ -23,3 +23,6 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
 
 - **Whois - Información sobre Dominios** 🌍: [Who.is](https://who.is/)  
   _Who.is es una herramienta que permite realizar consultas WHOIS, proporcionando información sobre dominios, como propietario, registros y más._
+
+- **Archive.org - Wayback Machine** 🕒: [Archive.org](https://archive.org/)  
+  _Archive.org es una plataforma que ofrece una "Wayback Machine", permitiendo ver versiones archivadas de páginas web a lo largo del tiempo._
