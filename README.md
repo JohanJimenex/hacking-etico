@@ -35,7 +35,7 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
   _theHarvester es una herramienta utilizada para la recopilación de información (reconocimiento) sobre objetivos en pruebas de penetración y hacking ético, proporcionando acceso a diversas fuentes de información._
   ejemplo:
   ```bash
-   theHarvester --domain microsoft.com --source bing,yahoo,baidu,duckduckgo --limit 100
+   theHarvester --domain microsoft.com --source all --limit 100
   ```
 
 - **OSINT.rocks - Herramientas de OSINT** 🔍: [OSINT.rocks](https://osint.rocks/)  
