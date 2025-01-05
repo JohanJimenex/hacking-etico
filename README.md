@@ -26,3 +26,6 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
 
 - **Archive.org - Wayback Machine** 🕒: [Archive.org](https://archive.org/)  
   _Archive.org es una plataforma que ofrece una "Wayback Machine", permitiendo ver versiones archivadas de páginas web a lo largo del tiempo._
+
+- **theHarvester - Herramienta de Reconocimiento** 🕵️‍♂️: [theHarvester](https://github.com/laramies/theHarvester)  
+  _theHarvester es una herramienta utilizada para la recopilación de información (reconocimiento) sobre objetivos en pruebas de penetración y hacking ético, proporcionando acceso a diversas fuentes de información._
