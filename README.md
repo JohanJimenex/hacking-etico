@@ -23,9 +23,20 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
 
 - **Whois - Información sobre Dominios** 🌍: [Who.is](https://who.is/)  
   _Who.is es una herramienta que permite realizar consultas WHOIS, proporcionando información sobre dominios, como propietario, registros y más._
+   Ejemplo con la herramienta en la terminal
+  ```bash
+    whois microsoft.com
+  ```
 
 - **Archive.org - Wayback Machine** 🕒: [Archive.org](https://archive.org/)  
   _Archive.org es una plataforma que ofrece una "Wayback Machine", permitiendo ver versiones archivadas de páginas web a lo largo del tiempo._
 
 - **theHarvester - Herramienta de Reconocimiento** 🕵️‍♂️: [theHarvester](https://github.com/laramies/theHarvester)  
   _theHarvester es una herramienta utilizada para la recopilación de información (reconocimiento) sobre objetivos en pruebas de penetración y hacking ético, proporcionando acceso a diversas fuentes de información._
+  ejemplo:
+  ```bash
+   theHarvester --domain microsoft.com --source bing,yahoo,baidu,duckduckgo --limit 100
+  ```
+
+- **OSINT.rocks - Herramientas de OSINT** 🔍: [OSINT.rocks](https://osint.rocks/)  
+  _OSINT.rocks es un sitio que reúne herramientas y recursos útiles para la inteligencia de fuentes abiertas (OSINT), facilitando la recolección de información sobre objetivos en ciberseguridad y hacking ético._
