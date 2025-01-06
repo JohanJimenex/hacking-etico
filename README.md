@@ -37,6 +37,9 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
   ```bash
    theHarvester --domain microsoft.com --source all --limit 100
   ```
+  
+- **Maltego - Herramienta de Análisis y Visualización de Relaciones** 🕵️‍♂️: [Maltego](https://www.paterva.com/web7/)  
+  _Maltego es una herramienta que permite descubrir relaciones entre personas, grupos, sitios web, dominios y otros elementos en la red. Se utiliza en el campo de la ciberseguridad, inteligencia de fuentes abiertas (OSINT) y análisis de redes para mapear conexiones y obtener información valiosa durante investigaciones._  
 
 - **OSINT.rocks - Herramientas de OSINT** 🔍: [OSINT.rocks](https://osint.rocks/)  
   _OSINT.rocks es un sitio que reúne herramientas y recursos útiles para la inteligencia de fuentes abiertas (OSINT), facilitando la recolección de información sobre objetivos en ciberseguridad y hacking ético._
