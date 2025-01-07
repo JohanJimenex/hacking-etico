@@ -8,6 +8,7 @@ Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Go
 
 - **Curso de Hacking Ético** 🎓: [Curso Completo de Hacking Ético y Ciberseguridad](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad)  
   _Un curso completo que te enseña desde lo básico hasta técnicas avanzadas de hacking ético y ciberseguridad._
+  _Se usa VMWare para crear maquinas virtuales.
 
 - **Exploit DB - Google Dorks - Combinaciones Probadas** 💻: [Google Dorks - Lista Completa](https://www.exploit-db.com/google-hacking-database)  
   _Una colección de combinaciones de búsqueda avanzadas que pueden usarse para encontrar vulnerabilidades de seguridad a través de Google._
