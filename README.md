@@ -61,3 +61,9 @@ todas las relaciones ._
  
 - **OSINT.rocks - Herramientas de OSINT** 🔍: [OSINT.rocks](https://osint.rocks/)  
   _OSINT.rocks es un sitio que reúne herramientas y recursos útiles para la inteligencia de fuentes abiertas (OSINT), facilitando la recolección de información sobre objetivos en ciberseguridad y hacking ético._
+
+- **CentralOps - Herramienta de Información de DNS y WHOIS** 🌐: [CentralOps](https://centralops.net/)  
+  _CentralOps es una herramienta en línea que ofrece información sobre DNS, direcciones IP y registros WHOIS, permitiendo realizar consultas detalladas sobre dominios y servidores._
+
+- **DNS Dumpster - Herramienta de Información de DNS** 🌐: [DNS Dumpster](https://dnsdumpster.com/)  
+  _DNS Dumpster es una herramienta en línea que permite realizar búsquedas de información DNS sobre un dominio, proporcionando detalles sobre registros de DNS, direcciones IP, servidores asociados y más._
