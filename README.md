@@ -67,3 +67,20 @@ todas las relaciones ._
 
 - **DNS Dumpster - Herramienta de Información de DNS** 🌐: [DNS Dumpster](https://dnsdumpster.com/)  
   _DNS Dumpster es una herramienta en línea que permite realizar búsquedas de información DNS sobre un dominio, proporcionando detalles sobre registros de DNS, direcciones IP, servidores asociados y más._
+
+
+- **Qué es un Sniffer:**
+  
+  Un sniffer es una herramienta o programa que se utiliza para interceptar y analizar el tráfico de una red de computadoras. Su función principal es capturar y examinar los paquetes de datos que circulan por una red, lo que permite a los usuarios o administradores de red monitorizar las comunicaciones.
+
+  Dependiendo del contexto, un sniffer puede tener distintos usos:
+  
+  - **Administradores de redes**: Los sniffers son empleados legítimamente para diagnosticar problemas de red, optimizar el rendimiento y asegurar que no haya comunicaciones no autorizadas.
+  
+  - **Ataques maliciosos**: Los sniffers también pueden ser utilizados por ciberdelincuentes para capturar información sensible, como contraseñas o datos bancarios, si se encuentran en una red insegura.
+
+  - **Wireshark** 🌐: [Wireshark](https://www.wireshark.org/)  
+    _Wireshark es uno de los sniffers más populares y ampliamente utilizados. Es una herramienta de análisis de red de código abierto que permite capturar y explorar los paquetes de datos que viajan por la red en tiempo real. Su interfaz gráfica facilita el análisis detallado de tráfico de red._ [captura](https://www.wireshark.org/docs/wsug_html_chunked/images/ws-main.png)
+  
+  - **TCPdump** 🌐: [TCPdump](https://www.tcpdump.org/)  
+    _TCPdump es una herramienta de línea de comandos muy poderosa para capturar y analizar el tráfico de red. A menudo se usa en entornos de servidores debido a su eficiencia y flexibilidad en el análisis de paquetes de datos._
