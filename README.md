@@ -4,6 +4,8 @@ Notas sobre **Hacking Ético** y Ciberseguridad
 ## Descripción
 Este documento ofrece recursos clave sobre herramientas como Shodan, Censys y Google Dorks para identificar vulnerabilidades en sistemas conectados a Internet, y cómo los expertos en ciberseguridad protegen estos sistemas.
 
+# **Fase de recopilación activa**: 🕵️‍♂️🔍💡
+
 ## Enlaces útiles 🌐
 
 - **Curso de Hacking Ético** 🎓: [Curso Completo de Hacking Ético y Ciberseguridad](https://www.udemy.com/course/curso-completo-de-hacking-etico-y-ciberseguridad)  
@@ -84,3 +86,7 @@ todas las relaciones ._
   
   - **TCPdump** 🌐: [TCPdump](https://www.tcpdump.org/)  
     _TCPdump es una herramienta de línea de comandos muy poderosa para capturar y analizar el tráfico de red. A menudo se usa en entornos de servidores debido a su eficiencia y flexibilidad en el análisis de paquetes de datos._
+
+# **Fase de recopilación pasiva**: 🛋️📚🌙
+
+
