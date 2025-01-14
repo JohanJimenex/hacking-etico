@@ -89,4 +89,5 @@ todas las relaciones ._
 
 # **Fase de recopilación pasiva**: 🛋️📚🌙
 
-
+  - **HackerOne** 🌐: [HackerOne](https://www.hackerone.com/)  
+    _HackerOne es una plataforma de recompensas por vulnerabilidades, donde los hackers éticos pueden identificar y reportar vulnerabilidades de software._ 
